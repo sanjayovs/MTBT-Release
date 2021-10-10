@@ -1,0 +1,16 @@
+MT Length: 13
+Dimer Count:300
+Dimer Affinity Level:3
+DeHydrolysation Min Iter:100
+DeHydrolysation Max Iter:1000
+Brownian Force Max:300
+GTP Count:300
+GTP Transition Min Iter:1000
+GTP Transition Max Iter:5000
+Maximum Iterations:1000
+Total Trials:0
+B2 Probability:0.9
+B4 Probability:0.02
+B3 Probability:0.02
+B1 Probability:0.06
+Max. Break Iteration:0
